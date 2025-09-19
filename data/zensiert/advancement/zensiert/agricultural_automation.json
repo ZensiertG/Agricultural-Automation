@@ -1,0 +1,28 @@
+{
+    "display": {
+        "title": {
+            "text": "Agricultural Automation",
+            "color": "gold",
+            "bold": true
+        },
+        "description": {
+            "text": "Originally by Chewbarcus updated by Zen",
+            "color": "green"
+        },
+        "icon": {
+            "id": "minecraft:oak_sapling"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false,
+        "background": "minecraft:textures/block/black_concrete.png"
+    },
+    "criteria": {
+        "tick": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "parent": "zensiert:zensiert/root"
+
+}

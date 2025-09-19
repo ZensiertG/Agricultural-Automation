@@ -1,0 +1,29 @@
+{
+  "pools": [
+    {
+      "rolls": 2,
+      "entries": [
+        {
+			"type": "item",
+			"name": "minecraft:mangrove_log",
+			"weight": 10
+		},
+        {
+			"type": "item",
+			"name": "minecraft:mangrove_propagule",
+			"weight": 1
+		},
+        {
+			"type": "item",
+			"name": "minecraft:mangrove_leaves",
+			"weight": 1
+		},
+		{
+			"type": "item",
+			"name": "minecraft:mangrove_roots",
+			"weight": 1
+		}
+      ]
+    }
+  ]
+}
