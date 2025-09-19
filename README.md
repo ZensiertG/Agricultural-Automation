@@ -27,7 +27,7 @@ Diamond Axe:
 - Warped Fungus             Logs, Fungus, Wart Blocks, Shroomlight, Vines
 - Red Mushroom              Red Mushroom
 - Brown Mushroom            Brown Mushroom
-- Cactus                    Cactus, Green Dye
+- Cactus                    Cactus
 
 Diamond Hoe:
 

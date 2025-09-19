@@ -7,11 +7,6 @@
 			"type": "item",
 			"name": "minecraft:cactus",
 			"weight": 10
-		},
-		{
-			"type": "item",
-			"name": "minecraft:green_dye",
-			"weight": 1
 		}
       ]
     }
