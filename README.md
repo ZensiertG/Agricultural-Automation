@@ -57,4 +57,7 @@ Diamond Sword:
 
 Simply pop this into your saves/[​world]/datapacks folder and play!
 
-For comments check out the Planet Minecraft Page [here](https://www.planetminecraft.com/data-pack/zen-s-agricultural-automation/)
+Available On:
+- Planet Minecraft https://www.planetminecraft.com/data-pack/zen-s-agricultural-automation/
+- Modrinth https://modrinth.com/datapack/zens-agricultural-automations
+- Github https://github.com/ZensiertG/Agricultural-Automation
