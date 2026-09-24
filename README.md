@@ -1,5 +1,5 @@
 # Agricultural-Automation
-Agricultural Automation [​1.20 - 1.21]
+Agricultural Automation [26.3]
 
 This is an updated version of the [Original Data Pack by Chewbarcus](https://www.planetminecraft.com/data-pack/datapack-agricultural-automation-1-14/)
 
@@ -11,50 +11,61 @@ Every 30 seconds you'll be rewarded with one of the drops from custom loot table
 [​Tools & Drops]
 
 Diamond Axe:
-
-- Oak Sapling               Logs, Sapling, Leaves, Apples
-- Dark Oak Sapling          Logs, Sapling, Leaves, Apples
-- Pale Oak Sapling          Logs, Sapling, Leaves, Pale Moss
-- Acacia Sapling            Logs, Sapling, Leaves
-- Birch Sapling             Logs, Sapling, Leaves
-- Spruce Sapling            Logs, Sapling, Leaves
-- Cherry Sapling            Logs, Sapling, Leaves
-- Jungle Sapling            Logs, Sapling, Leaves, Vines, Cocoa Beans
-- Mangrove Propagule        Logs, Propagule, Leaves, Roots
-- Azalea Bush               Oak Logs, Azalea Bush, Leaves, Moss
-- Flowering Azalea Bush     Oak Logs, Flowering Azalea Bush, Leaves, Flowering Leaves, Moss
-- Crimson Fungus            Logs, Fungus, Wart Blocks, Shroomlight, Vines
-- Warped Fungus             Logs, Fungus, Wart Blocks, Shroomlight, Vines
-- Red Mushroom              Red Mushroom
-- Brown Mushroom            Brown Mushroom
-- Cactus                    Cactus
+  |Potted Plant | Drops  |
+  |---|---|
+  |Oak Sapling               |Logs, Sapling, Leaves, Apples|
+  |Dark Oak Sapling          |Logs, Sapling, Leaves, Apples|
+  |Pale Oak Sapling          |Logs, Sapling, Leaves, Pale Moss|
+  |Poplar Sapling            |Logs, Sapling, Leaves (Red,Orange,Yellow)|
+  |Acacia Sapling            |Logs, Sapling, Leaves|
+  |Birch Sapling             |Logs, Sapling, Leaves|
+  |Spruce Sapling            |Logs, Sapling, Leaves|
+  |Cherry Sapling            |Logs, Sapling, Leaves|
+  |Jungle Sapling            |Logs, Sapling, Leaves, Vines, Cocoa Beans|
+  |Mangrove Propagule        |Logs, Propagule, Leaves, Roots|
+  |Azalea Bush               |Oak Logs, Azalea Bush, Leaves, Moss|
+  |Flowering Azalea Bush     |Oak Logs, Flowering Azalea Bush, Leaves, Flowering Leaves, Moss|
+  |Crimson Fungus            |Logs, Fungus, Wart Blocks, Shroomlight, Vines|
+  |Warped Fungus             |Logs, Fungus, Wart Blocks, Shroomlight, Vines|
+  |Red Mushroom              |Red Mushroom|
+  |Brown Mushroom            |Brown Mushroom|
+  |Cactus                    |Cactus, Green Dye|
 
 Diamond Hoe:
 
-- Allium                    Flower
-- Azure Bluet               Flower
-- Blue Orchid               Flower
-- Cornflower                Flower
-- Dandelion                 Flower
-- Lily of the Valley        Flower
-- Orange Tulip              Flower
-- Oxeye Daisy               Flower
-- Pink Tulip                Flower
-- Poppy                     Flower
-- Red Tulip                 Flower
-- Torchflower               Flower, Seeds
-- White Tulip               Flower
-- Wither Rose               Flower
-- Open Eyeblossom           Flower
-- Closed Eyeblossom         Flower
-- Fern                      Fern, Wheat Seeds, Melon Seeds, Pumpkin Seeds, Beetroot Seeds
-- Crimson Roots             Crimson Roots
-- Warped Roots              Warped Roots
+  |Potted Plant | Drops  |
+  |---|---|
+  |Allium                    |Flower|
+  |Azure Bluet               |Flower|
+  |Blue Orchid               |Flower|
+  |Cornflower                |Flower|
+  |Dandelion                 |Flower|
+  |Golden Dandelion          |Flower|
+  |Lily of the Valley        |Flower|
+  |Orange Tulip              |Flower|
+  |Oxeye Daisy               |Flower|
+  |Pink Tulip                |Flower|
+  |Poppy                     |Flower|
+  |Red Tulip                 |Flower|
+  |Torchflower               |Flower, Seeds|
+  |White Tulip               |Flower|
+  |Wither Rose               |Flower|
+  |Open Eyeblossom           |Flower|
+  |Closed Eyeblossom         |Flower|
+  |Fern                      |Fern, Wheat Seeds, Melon Seeds, Pumpkin Seeds, Beetroot Seeds|
+  |Crimson Roots             |Crimson Roots|
+  |Warped Roots              |Warped Roots|
 
 Diamond Sword:
-- Bamboo                    Bamboo
-- Dead Bush                 Dead Bush, Sticks
+
+  |Potted Plant | Drops  |
+  |---|---|
+  |Bamboo                    |Bamboo|
+  |Dead Bush                 |Dead Bush, Sticks|
 
 Simply pop this into your saves/[​world]/datapacks folder and play!
 
-For comments check out the Planet Minecraft Page [here](https://www.planetminecraft.com/data-pack/zen-s-agricultural-automation/)
+Available On:
+- Planet Minecraft https://www.planetminecraft.com/data-pack/zen-s-agricultural-automation/
+- Modrinth https://modrinth.com/datapack/zens-agricultural-automations
+- Github https://github.com/ZensiertG/Agricultural-Automation
