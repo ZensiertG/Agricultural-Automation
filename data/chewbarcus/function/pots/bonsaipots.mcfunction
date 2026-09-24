@@ -10,6 +10,7 @@ execute at @e[type=minecraft:item_frame,nbt={Item:{id:"minecraft:diamond_axe"}}]
 execute at @e[type=minecraft:item_frame,nbt={Item:{id:"minecraft:diamond_axe"}}] if block ^ ^ ^-1 minecraft:hopper[enabled=true] if block ^ ^1 ^-1 minecraft:potted_mangrove_propagule run loot insert ^ ^ ^-1 loot chewbarcus:tree/mangrove
 execute at @e[type=minecraft:item_frame,nbt={Item:{id:"minecraft:diamond_axe"}}] if block ^ ^ ^-1 minecraft:hopper[enabled=true] if block ^ ^1 ^-1 minecraft:potted_cherry_sapling run loot insert ^ ^ ^-1 loot chewbarcus:tree/cherry
 execute at @e[type=minecraft:item_frame,nbt={Item:{id:"minecraft:diamond_axe"}}] if block ^ ^ ^-1 minecraft:hopper[enabled=true] if block ^ ^1 ^-1 minecraft:potted_pale_oak_sapling run loot insert ^ ^ ^-1 loot chewbarcus:tree/pale_oak
+execute at @e[type=minecraft:item_frame,nbt={Item:{id:"minecraft:diamond_axe"}}] if block ^ ^ ^-1 minecraft:hopper[enabled=true] if block ^ ^1 ^-1 minecraft:potted_poplar_sapling run loot insert ^ ^ ^-1 loot chewbarcus:tree/poplar
 
 execute at @e[type=minecraft:glow_item_frame,nbt={Item:{id:"minecraft:diamond_axe"}}] if block ^ ^ ^-1 minecraft:hopper[enabled=true] if block ^ ^1 ^-1 minecraft:potted_oak_sapling run loot insert ^ ^ ^-1 loot chewbarcus:tree/oak
 execute at @e[type=minecraft:glow_item_frame,nbt={Item:{id:"minecraft:diamond_axe"}}] if block ^ ^ ^-1 minecraft:hopper[enabled=true] if block ^ ^1 ^-1 minecraft:potted_spruce_sapling run loot insert ^ ^ ^-1 loot chewbarcus:tree/spruce
@@ -22,6 +23,7 @@ execute at @e[type=minecraft:glow_item_frame,nbt={Item:{id:"minecraft:diamond_ax
 execute at @e[type=minecraft:glow_item_frame,nbt={Item:{id:"minecraft:diamond_axe"}}] if block ^ ^ ^-1 minecraft:hopper[enabled=true] if block ^ ^1 ^-1 minecraft:potted_mangrove_propagule run loot insert ^ ^ ^-1 loot chewbarcus:tree/mangrove
 execute at @e[type=minecraft:glow_item_frame,nbt={Item:{id:"minecraft:diamond_axe"}}] if block ^ ^ ^-1 minecraft:hopper[enabled=true] if block ^ ^1 ^-1 minecraft:potted_cherry_sapling run loot insert ^ ^ ^-1 loot chewbarcus:tree/cherry
 execute at @e[type=minecraft:glow_item_frame,nbt={Item:{id:"minecraft:diamond_axe"}}] if block ^ ^ ^-1 minecraft:hopper[enabled=true] if block ^ ^1 ^-1 minecraft:potted_pale_oak_sapling run loot insert ^ ^ ^-1 loot chewbarcus:tree/pale_oak
+execute at @e[type=minecraft:glow_item_frame,nbt={Item:{id:"minecraft:diamond_axe"}}] if block ^ ^ ^-1 minecraft:hopper[enabled=true] if block ^ ^1 ^-1 minecraft:potted_poplar_sapling run loot insert ^ ^ ^-1 loot chewbarcus:tree/poplar
 
 #Flowers
 execute at @e[type=minecraft:item_frame,nbt={Item:{id:"minecraft:diamond_hoe"}}] if block ^ ^ ^-1 minecraft:hopper[enabled=true] if block ^ ^1 ^-1 minecraft:potted_allium run loot insert ^ ^ ^-1 loot chewbarcus:flower/allium
@@ -29,6 +31,7 @@ execute at @e[type=minecraft:item_frame,nbt={Item:{id:"minecraft:diamond_hoe"}}]
 execute at @e[type=minecraft:item_frame,nbt={Item:{id:"minecraft:diamond_hoe"}}] if block ^ ^ ^-1 minecraft:hopper[enabled=true] if block ^ ^1 ^-1 minecraft:potted_blue_orchid run loot insert ^ ^ ^-1 loot chewbarcus:flower/blue_orchid
 execute at @e[type=minecraft:item_frame,nbt={Item:{id:"minecraft:diamond_hoe"}}] if block ^ ^ ^-1 minecraft:hopper[enabled=true] if block ^ ^1 ^-1 minecraft:potted_cornflower run loot insert ^ ^ ^-1 loot chewbarcus:flower/cornflower
 execute at @e[type=minecraft:item_frame,nbt={Item:{id:"minecraft:diamond_hoe"}}] if block ^ ^ ^-1 minecraft:hopper[enabled=true] if block ^ ^1 ^-1 minecraft:potted_dandelion run loot insert ^ ^ ^-1 loot chewbarcus:flower/dandelion
+execute at @e[type=minecraft:item_frame,nbt={Item:{id:"minecraft:diamond_hoe"}}] if block ^ ^ ^-1 minecraft:hopper[enabled=true] if block ^ ^1 ^-1 minecraft:potted_golden_dandelion run loot insert ^ ^ ^-1 loot chewbarcus:flower/golden_dandelion
 execute at @e[type=minecraft:item_frame,nbt={Item:{id:"minecraft:diamond_hoe"}}] if block ^ ^ ^-1 minecraft:hopper[enabled=true] if block ^ ^1 ^-1 minecraft:potted_lily_of_the_valley run loot insert ^ ^ ^-1 loot chewbarcus:flower/lily_of_the_valley
 execute at @e[type=minecraft:item_frame,nbt={Item:{id:"minecraft:diamond_hoe"}}] if block ^ ^ ^-1 minecraft:hopper[enabled=true] if block ^ ^1 ^-1 minecraft:potted_orange_tulip run loot insert ^ ^ ^-1 loot chewbarcus:flower/orange_tulip
 execute at @e[type=minecraft:item_frame,nbt={Item:{id:"minecraft:diamond_hoe"}}] if block ^ ^ ^-1 minecraft:hopper[enabled=true] if block ^ ^1 ^-1 minecraft:potted_oxeye_daisy run loot insert ^ ^ ^-1 loot chewbarcus:flower/oxeye_daisy
@@ -46,6 +49,7 @@ execute at @e[type=minecraft:glow_item_frame,nbt={Item:{id:"minecraft:diamond_ho
 execute at @e[type=minecraft:glow_item_frame,nbt={Item:{id:"minecraft:diamond_hoe"}}] if block ^ ^ ^-1 minecraft:hopper[enabled=true] if block ^ ^1 ^-1 minecraft:potted_blue_orchid run loot insert ^ ^ ^-1 loot chewbarcus:flower/blue_orchid
 execute at @e[type=minecraft:glow_item_frame,nbt={Item:{id:"minecraft:diamond_hoe"}}] if block ^ ^ ^-1 minecraft:hopper[enabled=true] if block ^ ^1 ^-1 minecraft:potted_cornflower run loot insert ^ ^ ^-1 loot chewbarcus:flower/cornflower
 execute at @e[type=minecraft:glow_item_frame,nbt={Item:{id:"minecraft:diamond_hoe"}}] if block ^ ^ ^-1 minecraft:hopper[enabled=true] if block ^ ^1 ^-1 minecraft:potted_dandelion run loot insert ^ ^ ^-1 loot chewbarcus:flower/dandelion
+execute at @e[type=minecraft:glow_item_frame,nbt={Item:{id:"minecraft:diamond_hoe"}}] if block ^ ^ ^-1 minecraft:hopper[enabled=true] if block ^ ^1 ^-1 minecraft:potted_golden_dandelion run loot insert ^ ^ ^-1 loot chewbarcus:flower/golden_dandelion
 execute at @e[type=minecraft:glow_item_frame,nbt={Item:{id:"minecraft:diamond_hoe"}}] if block ^ ^ ^-1 minecraft:hopper[enabled=true] if block ^ ^1 ^-1 minecraft:potted_lily_of_the_valley run loot insert ^ ^ ^-1 loot chewbarcus:flower/lily_of_the_valley
 execute at @e[type=minecraft:glow_item_frame,nbt={Item:{id:"minecraft:diamond_hoe"}}] if block ^ ^ ^-1 minecraft:hopper[enabled=true] if block ^ ^1 ^-1 minecraft:potted_orange_tulip run loot insert ^ ^ ^-1 loot chewbarcus:flower/orange_tulip
 execute at @e[type=minecraft:glow_item_frame,nbt={Item:{id:"minecraft:diamond_hoe"}}] if block ^ ^ ^-1 minecraft:hopper[enabled=true] if block ^ ^1 ^-1 minecraft:potted_oxeye_daisy run loot insert ^ ^ ^-1 loot chewbarcus:flower/oxeye_daisy
